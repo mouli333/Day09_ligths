@@ -3,9 +3,9 @@
     padding: 0;
 }
 body{
-    /* background-image: url(./asset/BG.jpg); */
+    background-image: url(./asset/BG.jpg);
     background-size: 100%,100%;
-    /* background-repeat: no-repeat; */
+    background-repeat: no-repeat;
     
 }
 .bulb_area{
